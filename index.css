@@ -1,0 +1,30 @@
+h1{
+    color: goldenrod;
+     font-style: italic;
+}
+body{
+align-items: center;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#box{
+    background-color: green;
+    margin: 20px 50px;
+    padding: 16px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button{
+    color:#016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 3px 15px;
+    cursor: pointer;
+    margin-top: 5px;
+        
+} 
